@@ -1,0 +1,7 @@
+El programa utiliza un archivo de sonido el cual está contenido en la carpeta de entrega.
+Para el correcto funcionamiento del programa este archivo debe estar contenido en una carpeta titulada "resources"
+dentro del proyecto. 
+Además, antes de ejecutar el programa, debe usarse el comando "pip install pygame" en la terminal.
+En caso de no cumplirse estas condiciones, saltará un error.
+Por problemas tecnicos con nuestras PC, a pesar de haber seguido al pie de la letra los pasos del video,
+no pudimos crear el APK para instalar el juego en nuestros celulares.

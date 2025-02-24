@@ -1,0 +1,1 @@
+Este programa es un sistema de gestión de competidores que administra un archivo binario con datos de atletas
